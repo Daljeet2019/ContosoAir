@@ -1,5 +1,6 @@
 
 
+[![Build Status](https://dev.azure.com/dp-us-bus/TrainingDemoDaljeet/_apis/build/status/Daljeet2019.ContosoAir?branchName=master)](https://dev.azure.com/dp-us-bus/TrainingDemoDaljeet/_build/latest?definitionId=46&branchName=master)
 
 # Microsoft.Github CI Demo
 
